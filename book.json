@@ -1,5 +1,12 @@
-[
-    { "img": "http://img3m8.ddimg.cn/64/22/25247638-1_l_1.jpg", "title": "谈判：如何在博弈中获得更多(第四版)Everything is Negotiable", "price": 201, "num": 20 },
-    { "img": "http://img3m8.ddimg.cn/64/22/25247638-1_l_1.jpg", "title": "谈判：如何在博弈中获得更多(第四版)Everything is Negotiable", "price": 241, "num": 330 },
-    { "img": "http://img3m8.ddimg.cn/64/22/25247638-1_l_1.jpg", "title": "谈判：如何在博弈中获得更多(第四版)Everything is Negotiable", "price": 101, "num": 50 },
-]
+{
+    "code": 200,
+    "list": [
+        { "img": "http://img3m8.ddimg.cn/64/22/25247638-1_l_1.jpg", "title": "谈判：如何在博弈中获得更多(第四版)Everything is Negotiable", "price": 201, "num": 20 },
+        { "img": "http://img3m8.ddimg.cn/64/22/25247638-1_l_1.jpg", "title": "谈判：如何在博弈中获得更多(第四版)Everything is Negotiable", "price": 241, "num": 330 },
+        { "img": "http://img3m8.ddimg.cn/64/22/25247638-1_l_1.jpg", "title": "谈判：如何在博弈中获得更多(第四版)Everything is Negotiable", "price": 101, "num": 50 },
+        { "img": "http://img3m8.ddimg.cn/64/22/25247638-1_l_1.jpg", "title": "谈判：如何在博弈中获得更多(第四版)Everything is Negotiable", "price": 101, "num": 50 },
+        { "img": "http://img3m8.ddimg.cn/64/22/25247638-1_l_1.jpg", "title": "谈判：如何在博弈中获得更多(第四版)Everything is Negotiable", "price": 101, "num": 50 },
+        { "img": "http://img3m8.ddimg.cn/64/22/25247638-1_l_1.jpg", "title": "谈判：如何在博弈中获得更多(第四版)Everything is Negotiable", "price": 101, "num": 50 },
+        { "img": "http://img3m8.ddimg.cn/64/22/25247638-1_l_1.jpg", "title": "谈判：如何在博弈中获得更多(第四版)Everything is Negotiable", "price": 101, "num": 50 },
+    ]
+}
